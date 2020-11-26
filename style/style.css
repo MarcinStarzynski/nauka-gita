@@ -53,4 +53,9 @@ body {
 .content .media .icon a {
   font-size: 55px;
   color: #d89f9f;
+  background: #edf796;
+  border-radius: 50%;
+  line-height: 150px;
+  height: 150px;
+  width: 150px;
 }

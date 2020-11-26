@@ -40,7 +40,11 @@ body {
             a{
                 font-size: 55px;
                 color: $color-sub-2;
-                
+                background: $color-main;
+                border-radius: 50%;
+                line-height: 150px;
+                height: 150px;
+                width: 150px;
             }
         }
         width: 50%;
